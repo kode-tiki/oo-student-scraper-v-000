@@ -29,7 +29,8 @@ class Scraper
 
 puts "hi"
 puts "yo"
-binding.pry
+puts "yap"
+#binding.pry
     students_array
   end
 
